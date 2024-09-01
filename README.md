@@ -38,5 +38,5 @@ daquela iteração. Ao fim, deve-se exibir o nome do servidor (usar fixo: UOL, T
 tempo médio obtido pela operação. Outros Sistemas Operacionais devem ser
 descartados.
 
-#Programador: André Luiz 
-#Data: 01/09/2024
+#### Programador: André Luiz
+#### Data: 01/09/2024
